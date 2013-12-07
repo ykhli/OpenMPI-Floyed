@@ -7,7 +7,7 @@ Main program in APSPtest.c
 Calculate the shortest path for every node  in adjacency matrix. 
 
 
-The MIT License (MIT)
+The 1MIT License (MIT)
 
 Copyright (c) 2013 Hongyu Li
 
